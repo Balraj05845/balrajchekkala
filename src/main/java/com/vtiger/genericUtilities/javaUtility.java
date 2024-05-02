@@ -7,5 +7,6 @@ public class javaUtility {
 public  int getRandamnumber() {
 	Random ran=new Random();
 	return ran.nextInt(100);
+	system.out.println("hi");
 }
 }
